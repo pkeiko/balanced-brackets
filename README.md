@@ -18,3 +18,5 @@ and an input following the same format as:
 {[(])}
 {{[[(())]]}}
 ```
+
+full exercise can be found on: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
